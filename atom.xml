@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Way to Extreme]]></title>
+  <link href="http://etng.github.com/atom.xml" rel="self"/>
+  <link href="http://etng.github.com/"/>
+  <updated>2011-10-08T08:10:16+08:00</updated>
+  <id>http://etng.github.com/</id>
+  <author>
+    <name><![CDATA[etng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://etng.github.com/blog/2011/10/08/hello-world/"/>
+    <updated>2011-10-08T08:02:00+08:00</updated>
+    <id>http://etng.github.com/blog/2011/10/08/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
